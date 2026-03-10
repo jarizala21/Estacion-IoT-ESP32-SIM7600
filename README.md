@@ -81,18 +81,6 @@ Hardware/Proyecto
 
 ---
 
-# Consumo estimado
-
-Consumo aproximado:
-
-- Tiempo activo: ~30 s
-- Envíos diarios: 2
-- Consumo estimado: **3–5 mAh/día**
-
-Con 2 baterías **18650 (~6000 mAh)** la autonomía puede superar **1 año**.
-
----
-
 # Autor
 
 Proyecto desarrollado por:
