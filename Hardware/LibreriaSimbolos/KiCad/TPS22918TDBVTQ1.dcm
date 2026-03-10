@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS22918TDBVTQ1
+D 5.5V, 2A, 52m Automotive High-Side Load Switch with Adjustable Rise Time & Quick Output Discharge
+K
+F http://www.ti.com/lit/ds/symlink/tps22918-q1.pdf
+$ENDCMP
+#
+#End Doc Library

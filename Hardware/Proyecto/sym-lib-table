@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Zizurkil_Proiektua")(type "KiCad")(uri "${KIPRJMOD}/LibreriaSimbolos/Zizurkil_Proiektua.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS22918TDBVTQ1")(type "KiCad")(uri "${KIPRJMOD}/LibreriaSimbolos/KiCad/TPS22918TDBVTQ1.kicad_sym")(options "")(descr ""))
+)
