@@ -1,0 +1,10 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define SIM_PIN "7355"
+
+#define APN "i.euskaltel.mobi"
+
+#define BASE_URL "https://script.google.com/macros/s/AKfycbzfEhE03qzAXIdLV07G1wHwL1HrYeJxvcXpclHHlYOtjyjoFGSmAt3ZjgdqzC9e0Fmt/exec"
+
+#endif
